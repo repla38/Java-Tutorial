@@ -6,6 +6,237 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Comments",
+            "request": "launch",
+            "mainClass": "JavaTutorial.Comments.Comments",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_a0caaf89"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "JavaClasses.ClassAttributes.MultipleAttributes.Main",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "JavaClasses.ClassAttributes.MultipleObjects.Main",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Second",
+            "request": "launch",
+            "mainClass": "JavaClasses.ClassesAndObjects.Second",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "JavaClasses.ClassesAndObjects.Main",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "RecursionHaltingCondition",
+            "request": "launch",
+            "mainClass": "JavaMethods.Recursion.RecursionHaltingCondition",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "JavaMethods.Recursion.Recursion",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Scope",
+            "request": "launch",
+            "mainClass": "JavaMethods.Scope.Scope",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverloading",
+            "request": "launch",
+            "mainClass": "JavaMethods.MethodOverloading.MethodOverloading",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "ReturnValues",
+            "request": "launch",
+            "mainClass": "JavaMethods.MethodParameters.ReturnValues",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Parameters",
+            "request": "launch",
+            "mainClass": "JavaMethods.MethodParameters.Parameters",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Parameters",
+            "request": "launch",
+            "mainClass": "JavaMethods.Methods.Parameters",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Methods",
+            "request": "launch",
+            "mainClass": "JavaMethods.Methods.Methods",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "MultidimensionalArrays",
+            "request": "launch",
+            "mainClass": "JavaTutorial.Arrays.MultidimensionalArrays",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Examples",
+            "request": "launch",
+            "mainClass": "JavaTutorial.Arrays.Examples",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "ArraysLoop",
+            "request": "launch",
+            "mainClass": "JavaTutorial.Arrays.ArraysLoop",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "JavaTutorial.Arrays.Arrays",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "BreakContinue",
+            "request": "launch",
+            "mainClass": "JavaTutorial.BreakContinue.BreakContinue",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Exercises",
+            "request": "launch",
+            "mainClass": "JavaTutorial.ForLoop.Exercises",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "ForEachLoop",
+            "request": "launch",
+            "mainClass": "JavaTutorial.ForLoop.ForEachLoop",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoops",
+            "request": "launch",
+            "mainClass": "JavaTutorial.ForLoop.NestedLoops",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "JavaTutorial.ForLoop.ForLoop",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Examples",
+            "request": "launch",
+            "mainClass": "JavaTutorial.WhileLoop.Examples",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop",
+            "request": "launch",
+            "mainClass": "JavaTutorial.WhileLoop.DoWhileLoop",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "JavaTutorial.WhileLoop.WhileLoop",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "JavaTutorial.Switch.Switch",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Examples",
+            "request": "launch",
+            "mainClass": "JavaTutorial.IfElse.Examples",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "ShortHandIfElse",
+            "request": "launch",
+            "mainClass": "JavaTutorial.IfElse.ShortHandIfElse",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "ElseIf",
+            "request": "launch",
+            "mainClass": "JavaTutorial.IfElse.ElseIf",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Else",
+            "request": "launch",
+            "mainClass": "JavaTutorial.IfElse.Else",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "If",
+            "request": "launch",
+            "mainClass": "JavaTutorial.IfElse.If",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
+            "name": "Booleans",
+            "request": "launch",
+            "mainClass": "JavaTutorial.Booleans.Booleans",
+            "projectName": "VSCode_689ec068"
+        },
+        {
+            "type": "java",
             "name": "Maths",
             "request": "launch",
             "mainClass": "JavaTutorial.Math.Maths",
